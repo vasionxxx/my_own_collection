@@ -38,6 +38,6 @@
 
 [tar архив](https://github.com/vasionxxx/my_own_collection/blob/main/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
 
-[collection](https://github.com/vasionxxx/my_own_collection/blob/main/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
+[collection](https://github.com/vasionxxx/my_own_collection/tree/main/my_own_namespace/yandex_cloud_elk)
 
 ---
