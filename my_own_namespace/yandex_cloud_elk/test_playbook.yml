@@ -1,0 +1,7 @@
+- name: Test create_file module
+  hosts: localhost
+  tasks:
+    - name: Create a file
+      my_namespace.my_collection.create_file:
+        path: /tmp/testfile.txt
+        content: "Hello_netology"
